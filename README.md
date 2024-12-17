@@ -130,35 +130,64 @@
 
 ## 🦈 Shark Hacker | Cyber Security Specialist
 
-<div align="center" style="background: linear-gradient(120deg, #000428, #004e92); border-radius: 15px; padding: 20px; color: white;">
-  
-  <h2>Welcome to the 🦈 Shark Zone</h2>
-  <p>Unleashing the depths of cybersecurity, hacking, and technology.</p>
-  
-  <!-- Hacking Titles -->
-  <img src="https://img.shields.io/badge/Shark_Mode-ON-blue?style=for-the-badge&logo=shark&logoColor=white" alt="Shark Mode" />
-  <img src="https://img.shields.io/badge/Ethical_Hacker-Black?style=for-the-badge&logo=hackthebox&logoColor=green" alt="Ethical Hacker" />
-  <img src="https://img.shields.io/badge/Cyber_Security-Specialist-red?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber Security Specialist" />
-  
-  <!-- Hacking Platforms -->
-  <img src="https://img.shields.io/badge/Kali_Linux-Advanced-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/CTF_Player-Capture_The_Flag-orange?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTF Player" />
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-Elite-green?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box" />
-  
-  <!-- Tools Section -->
-  <h3>🛠️ Tools & Frameworks</h3>
-  <img src="https://img.shields.io/badge/Wireshark-Network_Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-Exploit_Framework-black?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burpsuite-Web_Vulnerability-orange?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burpsuite" />
-  <img src="https://img.shields.io/badge/Tor-Anonymous-purple?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tor Browser" />
-  <img src="https://img.shields.io/badge/SQL_Injection-Database_red?style=for-the-badge&logo=database&logoColor=white" alt="SQL Injection" />
-  
-  <!-- Programming and Scripting -->
-  <h3>💻 Programming & Scripting</h3>
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-FullStack-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%20Programming-Low_Level_Expert-blue?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
-  <img src="https://img.shields.io/badge/Flutter-Mobile_Apps-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
 
 </div>
