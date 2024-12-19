@@ -154,16 +154,6 @@
 > "The only limit to our realization of tomorrow is our doubts of today." - *Franklin D. Roosevelt*
 
 ---
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir&show_icons=true&theme=radical)
-
-[Scienceveli-Game](https://github.com/webveli/Scienceveli-Game)  
-[Scienceveli-Online-Gaming](https://github.com/webveli/Scienceveli-Online-Gaming)  
-[Webveli-Wallet](https://github.com/webveli/Webveli-Wallet)
-
-
-
----
 
 ## 📜 Certifications
 - **Certification in Network Administration** 📃
