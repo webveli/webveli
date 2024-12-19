@@ -173,17 +173,14 @@
 
 ## 🔥 Featured Projects
 
-<div align="center">
-  <!-- Webveli Project -->
-  <a href="https://webveli.com">
-    <img src="https://img.shields.io/badge/Webveli-Explore-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Webveli Website" />
-  </a>
+## 📊 GitHub Stats
+| Project Name                        | GitHub Link                                               |
+|-------------------------------------|-----------------------------------------------------------|
+| Scienceveli-Game                    | [Scienceveli-Game](https://github.com/webveli/Scienceveli-Game) |
+| Scienceveli-Online-Gaming           | [Scienceveli-Online-Gaming](https://github.com/webveli/Scienceveli-Online-Gaming) |
+| Webveli-Wallet                      | [Webveli-Wallet](https://github.com/webveli/Webveli-Wallet) |
 
-  <!-- Makavael Project -->
-  <a href="https://makavael.com">
-    <img src="https://img.shields.io/badge/Makavael.com-Discover-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Makavael Website" />
-  </a>
-</div>
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir&show_icons=true&theme=radical)
 
 ---
 
