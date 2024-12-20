@@ -150,11 +150,6 @@
 
 ---
 
-## 🌌 Inspirational Quote
-> "The only limit to our realization of tomorrow is our doubts of today." - *Franklin D. Roosevelt*
-
----
-
 ## 📜 Certifications
 - **Certification in Network Administration** 📃
 - **Certification in Cybersecurity** 🔐
@@ -179,6 +174,8 @@
 - **Recommended Books**: *Clean Code*, *The Pragmatic Programmer*, *You Don't Know JS*.
 
 ---
+
+
 ## ✨ Connect with Me
 
 <div align="center">
@@ -196,13 +193,16 @@
   </a>
 </div>
 
----
-
-
 
 ---
 
-## 🦈 Shark Hacker | Cyber Security Specialist
+
+
+---
+
+## 🦈 Shark Hacker | Cyber Security Specialist 🦈
+
+
 
 <div align="center">
   <!-- Programming Languages -->
