@@ -170,7 +170,7 @@
 | Scienceveli-Online-Gaming           | [Scienceveli-Online-Gaming](https://github.com/webveli/Scienceveli-Online-Gaming) |
 | Webveli-Wallet                      | [Webveli-Wallet](https://github.com/webveli/Webveli-Wallet) |
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir&show_icons=true&theme=radical)
+![webveli's GitHub stats](https://github-readme-stats.vercel.app/api?webveli=webveli&show_icons=true&theme=radical)
 
 ---
 
